@@ -12,7 +12,7 @@
 
 ## 👋 Who I Am
 
-I'm a 4th-year IT student at Istituto Blaise Pascal in Reggio Emilia, and I chose this path because technology genuinely fascinates me — but there's something more personal behind it too. My father started a journey in this field that he never got to finish, and carrying that forward is part of what drives me every day.
+I'm a 5th-year IT student at Istituto Blaise Pascal in Reggio Emilia, and I chose this path because technology genuinely fascinates me — but there's something more personal behind it too. My father started a journey in this field that he never got to finish, and carrying that forward is part of what drives me every day.
 Outside of code, you'll find me at the gym, out on a mountain bike trail, running, or just spending time with friends and good music.
 
 ---
@@ -79,16 +79,6 @@ I'm working toward a career in **full-stack or mobile development**, with a stro
 ![](https://nirzak-streak-stats.vercel.app/?user=marcotruffelli&theme=dark&hide_border=false)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=marcotruffelli&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-</div>
-
----
-
-## 🏆 Trophies
-
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=marcotruffelli&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 </div>
 
