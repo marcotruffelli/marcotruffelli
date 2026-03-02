@@ -12,9 +12,8 @@
 
 ## 👋 Who I Am
 
-I'm a 5th-year IT student with a passion for full-stack development, mobile apps, and applied AI. I love turning ideas into real products — from sketching in Figma to deploying working code. Currently channeling most of my energy into **VisionAID**, a project that sits at the intersection of technology and social impact.
-
-When I'm not coding, I'm probably learning something new in backend development or experimenting with hardware.
+I'm a 4th-year IT student at Istituto Blaise Pascal in Reggio Emilia, and I chose this path because technology genuinely fascinates me — but there's something more personal behind it too. My father started a journey in this field that he never got to finish, and carrying that forward is part of what drives me every day.
+Outside of code, you'll find me at the gym, out on a mountain bike trail, running, or just spending time with friends and good music.
 
 ---
 
