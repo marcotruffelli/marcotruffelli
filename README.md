@@ -19,7 +19,7 @@ Outside of code, you'll find me at the gym, out on a mountain bike trail, runnin
 
 ## 🚀 Current Focus
 
-- 🔭 Building [**VisionAID**](https://github.com/marcotruffelli/VisionAID) — my main project right now
+- 🔭 Building [**VisionAID**](https://github.com/Waide17/VisionAID) — my main project right now
 - 🌱 Deepening my backend skills to bring VisionAID to production
 - 🎓 Finishing my final year of IT studies
 - 🤖 Exploring AI/ML integration in real-world applications
