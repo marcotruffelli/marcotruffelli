@@ -26,12 +26,6 @@ Outside of code, you'll find me at the gym, out on a mountain bike trail, runnin
 
 ---
 
-## 🎯 Goals
-
-I'm working toward a career in **full-stack or mobile development**, with a strong interest in projects that have real-world utility. I want to grow as an engineer who can own a product end-to-end — from architecture to UI — and eventually contribute to or lead impactful tech initiatives.
-
----
-
 ## 🛠️ Tech Stack
 
 **Languages**
