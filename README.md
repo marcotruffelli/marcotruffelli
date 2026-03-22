@@ -2,7 +2,7 @@
 
 # Marco Truffelli
 
-**Student Developer · IT Engineering · Class of 2025**
+**Student Developer · IT Engineering · Class of 2025/2026**
 
 *Building things that matter, one commit at a time.*
 
