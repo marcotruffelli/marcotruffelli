@@ -78,9 +78,9 @@ Outside of code, you'll find me at the gym, out on a mountain bike trail, runnin
 
 ---
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/marcotruffelli/marcotruffelli/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/marcotruffelli/marcotruffelli/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/marcotruffelli/marcotruffelli/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/marcotruffelli/marcotruffelli/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/marcotruffelli/marcotruffelli/output/snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/marcotruffelli/marcotruffelli/output/snake.svg" />
 </picture>
 ---
 
