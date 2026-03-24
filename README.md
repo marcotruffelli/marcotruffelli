@@ -77,6 +77,12 @@ Outside of code, you'll find me at the gym, out on a mountain bike trail, runnin
 </div>
 
 ---
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/marcotruffelli/marcotruffelli/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/marcotruffelli/marcotruffelli/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/marcotruffelli/marcotruffelli/output/github-contribution-grid-snake.svg" />
+</picture>
+---
 
 <div align="center">
 
