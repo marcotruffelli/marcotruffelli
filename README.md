@@ -16,7 +16,12 @@ I'm a 5th-year IT student at Istituto Blaise Pascal in Reggio Emilia, and I chos
 Outside of code, you'll find me at the gym, out on a mountain bike trail, running, or just spending time with friends and good music.
 
 ---
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/marcotruffelli/marcotruffelli/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/marcotruffelli/marcotruffelli/output/snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/marcotruffelli/marcotruffelli/output/snake.svg" />
+</picture>
+---
 ## 🚀 Current Focus
 
 - 🔭 Building [**VisionAID**](https://github.com/Waide17/VisionAID) — my main project right now
@@ -76,12 +81,6 @@ Outside of code, you'll find me at the gym, out on a mountain bike trail, runnin
 
 </div>
 
----
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/marcotruffelli/marcotruffelli/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/marcotruffelli/marcotruffelli/output/snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/marcotruffelli/marcotruffelli/output/snake.svg" />
-</picture>
 ---
 
 <div align="center">
