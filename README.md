@@ -121,7 +121,6 @@ If you'd like to reach out, collaborate, or just connect:
 
 - 💼 GitHub: [@marcotruffelli](https://github.com/marcotruffelli)  
 - 📧 Email: marcotruffelli07@gmail.com
-- 🚀 Current Project: VisionAID
 
 ---
 
