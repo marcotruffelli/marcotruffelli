@@ -12,22 +12,37 @@
 
 ## 👋 Who I Am
 
-I'm a 5th-year IT student at Istituto Blaise Pascal in Reggio Emilia, and I chose this path because technology genuinely fascinates me — but there's something more personal behind it too. My father started a journey in this field that he never got to finish, and carrying that forward is part of what drives me every day.
-Outside of code, you'll find me at the gym, out on a mountain bike trail, running, or just spending time with friends and good music.
+I'm Marco, a 5th-year IT student at *Istituto Blaise Pascal (Reggio Emilia)*.
+
+I'm passionate about building software that solves real problems, not just school projects.
+
+My journey in tech is also personal: my father started working in this field but never had the chance to complete his path. Continuing it is part of what motivates me every day.
+
+Outside of coding, I stay active with gym training, mountain biking, running, and I enjoy music and time with friends — balance is what keeps me consistent.
 
 ---
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/marcotruffelli/marcotruffelli/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/marcotruffelli/marcotruffelli/output/snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/marcotruffelli/marcotruffelli/output/snake.svg" />
-</picture>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/marcotruffelli/marcotruffelli/output/snake-dark.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/marcotruffelli/marcotruffelli/output/snake.svg" />
+  </picture>
+</p>
 ---
 ## 🚀 Current Focus
 
-- 🔭 Building [**VisionAID**](https://github.com/Waide17/VisionAID) — my main project right now
-- 🌱 Deepening my backend skills to bring VisionAID to production
-- 🎓 Finishing my final year of IT studies
-- 🤖 Exploring AI/ML integration in real-world applications
+- 🔭 Building **VisionAID** — turning it into a real, production-ready system  
+- 🧠 Improving backend architecture, scalability & APIs  
+- 🤖 Exploring AI integration in real-world applications  
+- 🎓 Completing my final year of IT studies with strong practical experience  
+
+---
+## 💡 What I Bring
+
+- 🧩 Problem-solving mindset over syntax memorization  
+- ⚙️ Strong focus on backend logic and system design  
+- 📱 Experience in mobile + web development  
+- 🤝 Teamwork and leadership from school projects  
+- 🚀 Constant drive to improve and ship real projects
 
 ---
 
@@ -69,17 +84,17 @@ Outside of code, you'll find me at the gym, out on a mountain bike trail, runnin
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
-<div align="center">
+<p align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=marcotruffelli&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+<img src="https://github-readme-stats.vercel.app/api?username=marcotruffelli&theme=tokyonight&show_icons=true&hide_border=true" width="48%"/>
 
-![](https://nirzak-streak-stats.vercel.app/?user=marcotruffelli&theme=dark&hide_border=false)
+<img src="https://nirzak-streak-stats.vercel.app/?user=marcotruffelli&theme=tokyonight&hide_border=true" width="48%"/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=marcotruffelli&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcotruffelli&theme=tokyonight&layout=compact&hide_border=true" width="48%"/>
 
-</div>
+</p>
 
 ---
 
