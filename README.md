@@ -2,46 +2,44 @@
 
 # Marco Truffelli
 
-**Student Developer · IT Engineering · Class of 2025/2026**
-
-*Building things that matter, one commit at a time.*
+**Computer Science Student · Building things that matter, one commit at a time.**
 
 </div>
 
 ---
 
-## 👋 Who I Am
+## Who I Am
 
-I'm Marco, a 5th-year IT student at *Istituto Blaise Pascal (Reggio Emilia)*.
+I'm Marco, a Computer Science student at the *University of Parma*, after finishing high school (IT & Telecommunications) at *Istituto Blaise Pascal, Reggio Emilia*.
 
 I'm passionate about building software that solves real problems, not just school projects.
 
 My journey in tech is also personal: my father started working in this field but never had the chance to complete his path. Continuing it is part of what motivates me every day.
 
-Outside of coding, I stay active with gym training, mountain biking, running, and I enjoy music and time with friends — balance is what keeps me consistent.
+Outside of coding, I stay active with gym training, running, and mountain biking, and I enjoy music and time with friends — balance is what keeps me consistent.
 
 ---
 
-## 🚀 Current Focus
+## Current Focus
 
-- 🔭 Building **VisionAID** — turning it into a real, production-ready system  
-- 🧠 Improving backend architecture, scalability & APIs  
-- 🤖 Exploring AI integration in real-world applications  
-- 🎓 Completing my final year of IT studies with strong practical experience  
-
----
-
-## 💡 What I Bring
-
-- 🧩 Problem-solving mindset over syntax memorization  
-- ⚙️ Strong focus on backend logic and system design  
-- 📱 Experience in mobile + web development  
-- 🤝 Teamwork and leadership from school projects  
-- 🚀 Constant drive to improve and ship real projects  
+- Building **VisionAID**, an AI object-recognition system — still a work in progress
+- Improving backend architecture, scalability & APIs
+- Exploring AI integration in real-world applications
+- Starting my Computer Science degree with a strong practical background
 
 ---
 
-## 🧠 Tech Stack
+## What I Bring
+
+- Problem-solving mindset over syntax memorization
+- Strong focus on backend logic and system design
+- Experience in mobile + web development
+- Teamwork built through school and project work
+- Constant drive to improve and ship real projects
+
+---
+
+## Tech Stack
 
 ### Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
@@ -70,12 +68,11 @@ Outside of coding, I stay active with gym training, mountain biking, running, an
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=marcotruffelli&theme=tokyonight&show_icons=true&hide_border=true" width="48%"/>
-
 
 </p>
 
@@ -87,7 +84,7 @@ Outside of coding, I stay active with gym training, mountain biking, running, an
 
 ---
 
-## 📈 Activity Graph
+## Activity Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=marcotruffelli&theme=tokyo-night&hide_border=true" />
@@ -95,7 +92,7 @@ Outside of coding, I stay active with gym training, mountain biking, running, an
 
 ---
 
-## 🐍 Contribution Snake
+## Contribution Snake
 
 <p align="center">
   <picture>
@@ -106,21 +103,19 @@ Outside of coding, I stay active with gym training, mountain biking, running, an
 
 ---
 
-## 🚧 Featured Project
+## Featured Project
 
-🚀 **[VisionAID](https://github.com/Waide17/VisionAID)**  
-AI-powered project focused on real-world applications and backend scalability.
+**[VisionAID](https://github.com/Waide17/VisionAID)**
+AI-powered object recognition system, built with a focus on real-world impact and backend scalability.
 
-> Currently under active development — focusing on backend architecture, APIs, and AI integration.
+> Still a work in progress — currently improving backend architecture, APIs, and AI integration.
 
 ---
 
-## 📬 Connect
+## Connect
 
-If you'd like to reach out, collaborate, or just connect:
-
-- 💼 GitHub: [@marcotruffelli](https://github.com/marcotruffelli)  
-- 📧 Email: marcotruffelli07@gmail.com
+- GitHub: [@marcotruffelli](https://github.com/marcotruffelli)
+- Email: marcotruffelli07@gmail.com
 
 ---
 
